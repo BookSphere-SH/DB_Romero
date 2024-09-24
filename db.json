@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "birthday": "1990-02-12",
+      "gender": "Male",
+      "favoriteBook": "To Kill a Mockingbird",
+      "registerDate": "2020-01-01",
+      "description": "Software engineer with a passion for reading and hiking.",
+      "library": [
+
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "birthday": "1992-05-25",
+      "gender": "Female",
+      "favoriteBook": "The Great Gatsby",
+      "registerDate": "2020-02-15",
+      "description": "Marketing specialist and book club enthusiast.",
+      "library": [
+
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "birthday": "1985-08-10",
+      "gender": "Male",
+      "favoriteBook": "1984",
+      "registerDate": "2020-03-20",
+      "description": "Data analyst and sci-fi fan.",
+      "library": [
+
+      ]
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Emily Wilson",
+      "birthday": "1990-02-12",
+      "gender": "Female",
+      "favoriteBook": "Dante's Inferno",
+      "registerDate": "2020-01-01",
+      "description": "Bestselling author of historical fiction, exploring the human condition.",
+      "publisher": "Penguin Random House",
+      "books": [
+        "The Lost City",
+        "The Hidden Temple"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Alexander Lee",
+      "birthday": "1992-05-25",
+      "gender": "Male",
+      "favoriteBook": "The Great Gatsby",
+      "registerDate": "Treasure Island",
+      "description": "Award-winning novelist known for crafting intricate mysteries.",
+      "publisher": "HarperCollins",
+      "books": [
+        "The Whispering Walls",
+        "The Forgotten Garden"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Lily Patel",
+      "birthday": "1985-08-10",
+      "gender": "Female",
+      "favoriteBook": "The Dark Knight Returns",
+      "registerDate": "2020-03-20",
+      "description": "Acclaimed science fiction writer, delving into the unknown and the unexplored.",
+      "publisher": "Machette Book Group",
+      "books": [
+        "The Quantum Prophecy",
+        "The Cosmic Odyssey"
+      ]
+    }
+  ]
+}
+
